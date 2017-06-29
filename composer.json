@@ -1,0 +1,12 @@
+{
+    "name": "tractorcow/testproject",
+    "authors": [
+        {
+            "name": "Damian Mooyman",
+            "email": "damian@silverstripe.com"
+        }
+    ],
+    "require": {
+        "tractorcow/testpkg": "0.1.0"
+    }
+}
